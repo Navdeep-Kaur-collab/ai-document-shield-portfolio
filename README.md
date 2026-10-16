@@ -1,6 +1,6 @@
-# AI Document Shield 🛡️
+## Project Preview
 
-**AI-Powered Document Tampering Detection and Identity Document Risk Analysis**
+![AI Document Shield Dashboard](project-preview.png)
 
 ## 📌 About the Project
 
