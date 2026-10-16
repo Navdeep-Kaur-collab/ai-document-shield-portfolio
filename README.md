@@ -1,6 +1,6 @@
 ## Project Preview
 
-![AI Document Shield Dashboard](project-preview.png)
+![AI Document Shield Dashboard](project-preview.jpeg)
 
 ## 📌 About the Project
 
